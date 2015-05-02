@@ -11,7 +11,11 @@
 			</head>
 			<body>
 				<div class=\"container-fluid\">
+<<<<<<< HEAD
 					<h1>Atividade Aberta 055</h1>
+=======
+					<h1>Atividade Aberta 05</h1>
+>>>>>>> 992b01d351ddbee374479e5b4b4a7fbb4f982f48
 				</div>
 	";	
 ?>
